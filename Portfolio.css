@@ -25,6 +25,7 @@ ul {
     margin: 0;
     padding-left: 92%;
     padding-top: 1%;
+    font-size: 0.9rem;
 }
 
 li a {
@@ -38,7 +39,7 @@ H1 {
     position: inherit;
     padding-left: 5%;
     font-family: 'Montserrat', sans-serif;
-    font-size: 200%;
+    font-size: 2.5rem;
     padding-bottom: 3%;
 
 }
@@ -46,7 +47,7 @@ H1 {
 H2 {
     font-family: 'Montserrat', sans-serif;
     padding-left: 5%;
-    font-size: 170%;
+    font-size: 2rem;
     padding-top: 2%;
 }
 
@@ -68,10 +69,10 @@ H2 {
 p {
     font-family: 'Montserrat', sans-serif;
     position: relative;
+    width: 29rem;
     padding-left: 5%;
-    padding-right: 64%;
     padding-bottom: 1%;
-
+    font-size: 1rem;
 
 }
 
@@ -82,11 +83,12 @@ p3 {
     display: inline-block;
     padding-left: 5%;
     padding-right: 4%;
-    column-gap: 2%;
+    column-gap: 2rem;
     column-count: 2;
-    column-width: 94%;
+    column-width: 5rem;
     column-fill: auto;
     padding-bottom: 1%;
+    font-size: 1rem;
 
 }
 
@@ -101,15 +103,18 @@ p3 {
     text-align: center;
     padding-bottom: 1%;
     padding-top: 1%;
+    font-size: 1rem;
 
 }
 
 p4 {
     font-family: 'Montserrat', sans-serif;
     position: absolute;
+    font-size: 1rem;
     padding-top: 3%;
     padding-bottom: 3%;
     padding-left: 5%;
+    
 
 }
 .Pasfoto {
